@@ -12,17 +12,6 @@
 
 ---
 
-### 🧠 About me
-
-- 🔭 Computing Systems Engineering student at **ESCOM-IPN**, Mexico City
-- 🤖 I build **AI-powered backend systems**: multi-provider LLM orchestration, multimodal evaluation pipelines, map-reduce processing for long-form video/audio
-- 📱 I also ship **Flutter apps** with offline-first architecture and Supabase backends
-- 🏗️ Big believer in **Clean Architecture** — on both backend and frontend
-- 🎯 Working toward a career as a **software architect**
-- 💬 Come from a bilingual call center background — turned that domain knowledge into an AI system that evaluates sales calls
-
----
-
 ### 🚀 Featured projects
 
 <table>
@@ -32,18 +21,8 @@
       Voice recording app with transcription and AI-powered analysis — my flagship portfolio project.
     </td>
     <td width="50%">
-      <h4>📝 gestion_ets_escom</h4>
-      Offline-first Flutter app for managing ETS exams at ESCOM, built with Riverpod, Supabase, and sqflite.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h4>📊 Qualidot AI Pipeline</h4>
       Architecture case study of a multimodal call-evaluation microservice: FastAPI, Celery, multi-provider LLMs (Gemini, Qwen, Claude), map-reduce video processing.
-    </td>
-    <td width="50%">
-      <h4>🚶 Pedestrian Safety Thesis</h4>
-      Route safety analysis in Gustavo A. Madero, CDMX using PostGIS, CPTED principles, and crowdsourced data via Flutter.
     </td>
   </tr>
 </table>
